@@ -36,3 +36,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# cursoNext---Tarefas-
+
+Aplicação desenvolvida no decorrer do curso "NextJS do zero ao avançado na pratica 2023" com professor Matheus Fraga. A aplicação consiste em um sistema de registro de tarefas e que permite que usuário comentem em cada uma delas.
